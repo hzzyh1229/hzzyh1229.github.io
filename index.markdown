@@ -7,7 +7,9 @@ layout: default
 
 # Yihan Zhang
 
-I'm an MEng student in Computer Science at Cornell University. I also obtained my Bachelor of Arts degree with Computer Science major at Cornell. 
+I'm an MEng student in [Computer Science at](https://www.cs.cornell.edu/) Cornell University. I also obtained my Bachelor of Arts degree with Computer Science major at Cornell. 
+
+My interests lie broadly, from computer graphics, game architecture, to machine learning and software frameworks. Ouside my academic studies, I love traveling, learning languages (I can speak Chinese, English, Japanese, and I'm learning French now!), musicals and collecting enamel pins.
 
 <img src="photo.png"
      alt="Markdown Monster icon"
